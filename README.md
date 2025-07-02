@@ -37,12 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=majidqurashi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majidqurashi&layout=compact&theme=radical)
-
----
-
 ## 🧠 Fun Fact
 💡 I believe that great UI/UX is just as important as clean backend logic. A powerful product is a blend of both!
 
