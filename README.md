@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Majid Qurashi</h1>
+<h2 align="center">Hi 👋, I'm Majid Qurashi</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
@@ -17,11 +17,6 @@ Building meaningful digital experiences through code, design, and community.
 
 🎯 Aspiring Software Engineer focused on creating solutions that solve real world problems.
 
-🤝 Strong believer in collaboration, knowledge sharing, and community driven learning.
-
-✨ Interested in programs that empower students through technology, leadership, and innovation.
-
----
 
 ## 🏆 Highlights
 
@@ -32,8 +27,6 @@ Building meaningful digital experiences through code, design, and community.
 🔹 Active learner constantly exploring emerging technologies and development practices.
 
 🔹 Passionate about mentoring peers and contributing to technical communities.
-
-🔹 Dedicated to creating accessible, user focused, and impactful digital products.
 
 ---
 
@@ -100,19 +93,6 @@ I enjoy transforming ideas into practical solutions.
 Whether it is designing intuitive user interfaces, developing efficient backend systems, or contributing to developer communities, I focus on creating work that delivers real value.
 
 Technology is not only about writing code. It is about solving problems, empowering people, and building tools that make a difference.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
 
 ---
 
