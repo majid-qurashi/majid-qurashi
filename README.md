@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Majid Qurashi</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Open Source Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
 Building meaningful digital experiences through code, design, and community.
