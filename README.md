@@ -45,4 +45,4 @@
 ## 🔗 Visit My Website
 🌐 For more info, portfolio, and contact —  
 👉 [https://qurashi.netlify.app](https://qurashi.netlify.app)
-👉[https://majidqurashi.vercel.app](https://majidqurashi.vercel.app)
+👉[https://majidqurashi.vercel.app](https://ermajid.vercel.app)
